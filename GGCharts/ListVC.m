@@ -53,6 +53,8 @@ _Pragma("clang diagnostic pop") \
     self.table.separatorColor = [UIColor whiteColor];
     
     [self.view addSubview:_table];
+    
+    NSLog(@"123");
 }
 
 - (void)viewWillAppear:(BOOL)animated
