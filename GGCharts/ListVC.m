@@ -54,7 +54,7 @@ _Pragma("clang diagnostic pop") \
     
     [self.view addSubview:_table];
     
-    NSLog(@"123");
+    NSLog(@"123123123");
 }
 
 - (void)viewWillAppear:(BOOL)animated
