@@ -56,8 +56,6 @@
 | 样例七 | 样例八
 | ![enter image description here](https://github.com/MarcWeigert/Show-HSCharts-Images/blob/master/GGCharts/RadarChat1.PNG?raw=true) |![enter image description here](https://github.com/MarcWeigert/Show-HSCharts-Images/blob/master/GGCharts/ProgressChart1.GIF?raw=true)
 
-<h2>刘工</h2>
-
 <h2 id="line_and_bar">折线图与柱状图</h2>
 
 <h3 id="linebar_features">折线图柱状图支持特性</h3>
