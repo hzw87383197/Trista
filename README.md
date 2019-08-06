@@ -1,6 +1,7 @@
 # GGChart
-**目录 (Table of Contents)**
 
+<h2>丁工</h2>
+**目录 (Table of Contents)**
 *   [GGChart](#GGChart)
     *   <a href="#chart_example">图表示例</a>
     *   <a href="#line_and_bar">折线图与柱状图</a>
