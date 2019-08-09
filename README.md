@@ -1,5 +1,5 @@
 # GGChart
-# TEST
+
 **目录 (Table of Contents)**
 
 *   [GGChart](#GGChart)
